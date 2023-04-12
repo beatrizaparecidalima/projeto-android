@@ -79,8 +79,8 @@ nav{
 nav > a{
     position: ;
     color:var(--cor1);
-    padding: 10px;
     border-radius: 5px;
+    padding: 10px;  
     text-decoration: none;
     font-weight: bold;
     transition-duration: .5s;
